@@ -4,4 +4,4 @@
 this for the abstract and introduction of the paper too.
 We updated the resarch collabration with some of the project images Intrusion detection system Architecture or  framework (IDS system) of any Intrusion detection system to explain a 
 point but not to deisgned an IDS system. then an image was also added of a zero detection rate across models too
-An update made with the addition of video link to summarized the research paper  https://www.loom.com/share/d1371a736ceb4d4c89d5bdf08eb54f3f
+An update made with the addition of video link to summarized the research paper  https://www.loom.com/share/d1371a736ceb4d4c89d5bdf08eb54f3f  and https://www.loom.com/share/d97fdcbc5dc9493898474d442250ea82
